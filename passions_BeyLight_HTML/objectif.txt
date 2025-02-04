@@ -1,0 +1,7 @@
+une page avec une présentation de qui est BeyLight.
+En haut 5 boutons pour chaque passion
+en bas ma tête random et quand on descend on voit passion par passion en global et un lien pour une page sur la passion.
+
+1. page de présentation avec au dessus 5 boutons pour chaque passion et en bas ma tête random avec un texte qui me présente.
+2. quand on scolle on voit passion par passion.
+3. faire 1 page détaillée de toutes les passions.
